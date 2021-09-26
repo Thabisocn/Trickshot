@@ -1,0 +1,11 @@
+# Trickshot
+
+Is a Touch and Drag game.Direct the ball towards the goal post.Challenge yourself with each progressively more difficult level, win levels with less moves.TrickShot-IO is an addictive and fun-inducing game in which your goal is to reach the goal post before you run out of time or moves. This game is released with over 20 levels which will grant you extreme and long lasting entertainment.Avoid exploding cans and beware of our AI powered SHOOTING CANON.
+
+**Full Project**
+- [Download full Project]()
+
+
+## Setup and run
+
+To setup the project in Unity just clone/Download and open in Unity,Dont forget to download all the necessary packages in unity.
