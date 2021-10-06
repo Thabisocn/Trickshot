@@ -1,7 +1,6 @@
 # Trickshot
 
-<<<<<<< HEAD
-![This is an image](https://github.com/Thabisoc123/Trickshot/Scre.png)
+![This is an image](/assets/Scre.png)
 
 Is a Touch and Drag game.Direct the ball towards the goal post.Challenge yourself with each progressively more difficult level, win levels with less moves.TrickShot-IO is an addictive and fun-inducing game in which your goal is to reach the goal post before you run out of time or moves. This game is released with over 20 levels which will grant you extreme and long lasting entertainment.Avoid exploding cans and beware of our AI powered SHOOTING CANON.
 
