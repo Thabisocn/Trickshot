@@ -48,3 +48,8 @@ Download the latest version of Unity I'm using(2021.2.2f1).
 ## Bye until we release our Update 
 
 To setup the project in Unity just Download the full Game using the provided link and open it in Unity,Dont forget to RE-IMPORT all the necessary packages in unity. using the Package manager
+
+
+## Update
+
+This version code 0.7 includes an SDK com.unity3d.ads:unity-ads deprecated version.According to the information provided by our SDK provider, you should upgrade to 4.0.1.
